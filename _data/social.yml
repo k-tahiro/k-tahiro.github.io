@@ -1,3 +1,13 @@
+- name: github
+  url: https://github.com/k-tahiro
+  icon: ri:github-fill
+  color: '#181717'
+
+- name: linkedin
+  url: https://www.linkedin.com/in/佳祐-廣田-aa47381a0
+  icon: ri:linkedin-box-fill
+  color: '#0A66C2'
+
 - name: facebook
   url: https://www.facebook.com/keisuke.hirota.14
   icon: ri:facebook-fill
